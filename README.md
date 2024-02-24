@@ -2,10 +2,15 @@
 
 ***AC***した提出コードを記録としてGithubで公開しています。 ~~(参考になりませんが...)~~
 
-以下コンテスト順にファイルとAtCoderのリンクを掲載 
+以下降順にファイルとAtCoderのリンクを掲載 
 
 例)　ABC341</br>
 ファイル名 ----- AtCoderのリンク
+
+## ABC342
+- [a.cpp](./ABC342/a.cpp) ----- [A問題](https://atcoder.jp/contests/abc342/tasks/abc342_a)
+
+- [b.cpp](./ABC342/b.cpp) ----- [B問題](https://atcoder.jp/contests/abc342/tasks/abc342_b)
 
 ## ABC341
 - [a.cpp](./ABC341/a.cpp) ----- [A問題](https://atcoder.jp/contests/abc341/tasks/abc341_a)
@@ -30,3 +35,8 @@
 
 ## ABC250
 - [b.cpp](./ABC250/b.cpp) ----- [B問題](https://atcoder.jp/contests/abc250/tasks/abc250_b)
+
+## ABC148
+- [a.cpp](./ABC148/a.cpp) ----- [A問題](https://atcoder.jp/contests/abc148/tasks/abc148_a)
+
+- [b.cpp](./ABC148/b.cpp) ----- [B問題](https://atcoder.jp/contests/abc148/tasks/abc148_b)
