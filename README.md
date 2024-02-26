@@ -12,6 +12,8 @@
 
 - [b.cpp](./ABC/ABC342/b.cpp) ----- [B問題](https://atcoder.jp/contests/abc342/tasks/abc342_b)
 
+- [c.cpp](./ABC/ABC342/c.cpp) ----- [C問題](https://atcoder.jp/contests/abc342/tasks/abc342_c)
+
 ## ABC341
 - [a.cpp](./ABC/ABC341/a.cpp) ----- [A問題](https://atcoder.jp/contests/abc341/tasks/abc341_a)
 
