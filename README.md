@@ -1,11 +1,18 @@
 # AtCoderの提出コード
 
-***AC***した提出コードを記録としてGithubで公開しています。 ~~(参考になりませんが...)~~
+***AC***した提出コードを記録としてGithubで公開しています。
 
 以下降順にファイルとAtCoderのリンクを掲載 
 
 例)　ABC341</br>
 ファイル名 ----- AtCoderのリンク
+
+## ABC343
+- [a.cpp](./ABC/ABC343/a.cpp) ----- [A問題](https://atcoder.jp/contests/abc343/tasks/abc343_a)
+
+- [b.cpp](./ABC/ABC343/b.cpp) ----- [B問題](https://atcoder.jp/contests/abc343/tasks/abc343_b)
+
+- [c.cpp](./ABC/ABC343/c.cpp) ----- [C問題](https://atcoder.jp/contests/abc343/tasks/abc343_c)
 
 ## ABC342
 - [a.cpp](./ABC/ABC342/a.cpp) ----- [A問題](https://atcoder.jp/contests/abc342/tasks/abc342_a)
