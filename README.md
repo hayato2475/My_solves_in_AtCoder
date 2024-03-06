@@ -60,6 +60,12 @@
 ## ABC250
 - [b.cpp](./ABC/ABC250/b.cpp) ----- [B問題](https://atcoder.jp/contests/abc250/tasks/abc250_b)
 
+## ABC158
+- [c.cpp](./ABC/ABC158/c.cpp) ----- [C問題](https://atcoder.jp/contests/abc158/tasks/abc158_c)
+
+## ABC149
+- [c.cpp](./ABC/ABC149/c.cpp) ----- [C問題](https://atcoder.jp/contests/abc149/tasks/abc149_c)
+
 ## ABC148
 - [a.cpp](./ABC/ABC148/a.cpp) ----- [A問題](https://atcoder.jp/contests/abc148/tasks/abc148_a)
 
