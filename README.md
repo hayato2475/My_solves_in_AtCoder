@@ -75,6 +75,13 @@
 ## ABC158
 - [c.cpp](./ABC/ABC158/c.cpp) ----- [C問題](https://atcoder.jp/contests/abc158/tasks/abc158_c)
 
+## ABC152
+- [a.cpp](./ABC/ABC152/a.cpp) ----- [A問題](https://atcoder.jp/contests/abc152/tasks/abc152_a)
+
+- [b.cpp](./ABC/ABC152/b.cpp) ----- [B問題](https://atcoder.jp/contests/abc152/tasks/abc152_b)
+
+- [c.cpp](./ABC/ABC152/c.cpp) ----- [C問題](https://atcoder.jp/contests/abc152/tasks/abc152_c)
+
 ## ABC149
 - [c.cpp](./ABC/ABC149/c.cpp) ----- [C問題](https://atcoder.jp/contests/abc149/tasks/abc149_c)
 
